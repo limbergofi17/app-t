@@ -2,7 +2,7 @@
   "name": "app-web",
   "version": "0.1.0",
   "private": true,
-  "homapage":"http://limbergofi17.github.io/app-t",
+  "homepage":"http://limbergofi17.github.io/app-t",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
